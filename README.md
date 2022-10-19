@@ -1,16 +1,16 @@
 <html>
     <head>
         <title>firstpage</title>
-        <link rel=""
+        <link rel="stylesheet" href="#">
     </head>
     <body>
         <header>
             <ul>
-                <li><a href="#">home</a></li>
-                <li><a href="#">newdesigns</a></li>
-                <li><a href="#">cosmetics</a></li>
-                <li><a href="#">cloths</a></li>
-                <li><a href="#">medicins</a></li>
+                <li><a href="#">c- history</a></li>
+                <li><a href="#">c-basisc program</a></li>
+                <li><a href="#">strings</a></li>
+                <li><a href="#">arrays</a></li>
+                <li><a href="#">arthametic opprations</a></li>
             </ul>
         </header>
         <hr>
