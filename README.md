@@ -14,7 +14,6 @@
             </ul>
         </header>
         <hr>
-        <section>
             <h1>c-coaders</h1><hr>
             <div>
                 <h3>Even numbers</h3>
@@ -31,8 +30,9 @@ int main() {<br>
 		}<br>
 	}<br>
 	return 0;<br>
-}</h4>
+
+}
+</h4>
             </div>
-        </section>
     </body>
 </html>
